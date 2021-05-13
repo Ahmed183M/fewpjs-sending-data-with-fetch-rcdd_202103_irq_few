@@ -6,7 +6,7 @@
         "Accept": "application/json"
       },
       body: JSON.stringify({
-        dogName: "Byron",
-        dogBreed: "Poodle"
+        userName: "Byron",
+        userPassword: "Poodle"
       })
     });
