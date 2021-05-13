@@ -1,5 +1,5 @@
 // Add your code here
-  submitData(){
+  function submitData(){
     fetch("http://localhost:3000/users", {
       method: "POST",
       headers: {
