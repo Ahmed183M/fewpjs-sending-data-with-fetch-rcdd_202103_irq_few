@@ -1,5 +1,5 @@
 // Add your code here
-    fetch("http://localhost:3000/dogs", {
+    fetch("http://localhost:3000/users", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
