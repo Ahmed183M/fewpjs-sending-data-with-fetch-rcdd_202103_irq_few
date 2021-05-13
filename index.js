@@ -7,8 +7,8 @@
         "Accept": "application/json"
       },
       body: JSON.stringify({
-        userName: "Byron",
-        userPassword: "Poodle"
+        name: "Byron",
+        email: "Poodle"
       })
     });
   }
